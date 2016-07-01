@@ -1,0 +1,1 @@
+A VSCode port of equinusocio's [Material-Theme Darker](https://github.com/equinusocio/material-theme) Sublime Text theme optimized for [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormonoscreensmart).

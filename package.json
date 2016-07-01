@@ -1,0 +1,22 @@
+{
+    "name": "theme-materialdarker-operator",
+    "displayName": "Material Darker Operator",
+    "description": "Material Theme Darker for Operator Mono.",
+    "version": "1.0.0-alpha.1",
+    "publisher": "d3viant0ne",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Darker Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materialDarker-operator.tmTheme"
+            }
+        ]
+    }
+}
